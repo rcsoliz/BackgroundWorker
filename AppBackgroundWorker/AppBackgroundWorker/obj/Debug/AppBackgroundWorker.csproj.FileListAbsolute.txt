@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\AppBackgroundWorker\AppBackgroundWorker\bin\Debug\AppBackgroundWorker.exe.config
+C:\Users\pc\source\repos\AppBackgroundWorker\AppBackgroundWorker\bin\Debug\AppBackgroundWorker.exe
+C:\Users\pc\source\repos\AppBackgroundWorker\AppBackgroundWorker\bin\Debug\AppBackgroundWorker.pdb
+C:\Users\pc\source\repos\AppBackgroundWorker\AppBackgroundWorker\obj\Debug\AppBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AppBackgroundWorker\AppBackgroundWorker\obj\Debug\AppBackgroundWorker.exe
+C:\Users\pc\source\repos\AppBackgroundWorker\AppBackgroundWorker\obj\Debug\AppBackgroundWorker.pdb

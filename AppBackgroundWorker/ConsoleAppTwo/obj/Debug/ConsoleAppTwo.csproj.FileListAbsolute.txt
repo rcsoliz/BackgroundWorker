@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\AppBackgroundWorker\ConsoleAppTwo\bin\Debug\ConsoleAppTwo.exe.config
+C:\Users\pc\source\repos\AppBackgroundWorker\ConsoleAppTwo\bin\Debug\ConsoleAppTwo.exe
+C:\Users\pc\source\repos\AppBackgroundWorker\ConsoleAppTwo\bin\Debug\ConsoleAppTwo.pdb
+C:\Users\pc\source\repos\AppBackgroundWorker\ConsoleAppTwo\obj\Debug\ConsoleAppTwo.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AppBackgroundWorker\ConsoleAppTwo\obj\Debug\ConsoleAppTwo.exe
+C:\Users\pc\source\repos\AppBackgroundWorker\ConsoleAppTwo\obj\Debug\ConsoleAppTwo.pdb

@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\bin\Debug\WindApp.exe.config
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\bin\Debug\WindApp.exe
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\bin\Debug\WindApp.pdb
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\obj\Debug\WindApp.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\obj\Debug\WindApp.Form1.resources
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\obj\Debug\WindApp.Properties.Resources.resources
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\obj\Debug\WindApp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\obj\Debug\WindApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\obj\Debug\WindApp.exe
+C:\Users\pc\source\repos\AppBackgroundWorker\WindApp\obj\Debug\WindApp.pdb
